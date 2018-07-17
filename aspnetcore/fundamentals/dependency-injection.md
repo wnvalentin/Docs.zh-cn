@@ -1,6 +1,6 @@
 ---
-title: 在 ASP.NET Core 依赖注入
-author: ardalis
+title: ASP.NET Core 中的依赖注入
+author: valentin wang
 description: 了解 ASP.NET Core 如何实现依赖注入和如何使用它。
 ms.author: riande
 ms.custom: H1Hack27Feb2017
@@ -13,7 +13,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 06/20/2018
 ms.locfileid: "36278448"
 ---
-# <a name="dependency-injection-in-aspnet-core"></a>在 ASP.NET Core 依赖注入
+# <a name="dependency-injection-in-aspnet-core"></a>ASP.NET Core 中的依赖注入
 
 <a name="fundamentals-dependency-injection"></a>
 
